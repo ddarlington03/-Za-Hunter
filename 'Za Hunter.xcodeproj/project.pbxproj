@@ -11,6 +11,7 @@
 		DE7A59D125F6879C00DC7FBC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7A59D025F6879C00DC7FBC /* ContentView.swift */; };
 		DE7A59D325F687A200DC7FBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE7A59D225F687A200DC7FBC /* Assets.xcassets */; };
 		DE7A59D625F687A200DC7FBC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE7A59D525F687A200DC7FBC /* Preview Assets.xcassets */; };
+		DE7A59DF25F68BF700DC7FBC /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7A59DE25F68BF700DC7FBC /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		DE7A59D225F687A200DC7FBC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE7A59D525F687A200DC7FBC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DE7A59D725F687A200DC7FBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE7A59DE25F68BF700DC7FBC /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				DE7A59CE25F6879C00DC7FBC /* _Za_HunterApp.swift */,
 				DE7A59D025F6879C00DC7FBC /* ContentView.swift */,
+				DE7A59DE25F68BF700DC7FBC /* LocationManager.swift */,
 				DE7A59D225F687A200DC7FBC /* Assets.xcassets */,
 				DE7A59D725F687A200DC7FBC /* Info.plist */,
 				DE7A59D425F687A200DC7FBC /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				DE7A59D125F6879C00DC7FBC /* ContentView.swift in Sources */,
 				DE7A59CF25F6879C00DC7FBC /* _Za_HunterApp.swift in Sources */,
+				DE7A59DF25F68BF700DC7FBC /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
